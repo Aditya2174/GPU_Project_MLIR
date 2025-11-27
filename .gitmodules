@@ -1,0 +1,3 @@
+[submodule "ireeGPU"]
+	path = ireeGPU
+	url = https://github.com/Aditya2174/ireeGPU.git
