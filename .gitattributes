@@ -1,0 +1,1 @@
+mlir/resnet50_linalg.mlir filter=lfs diff=lfs merge=lfs -text
