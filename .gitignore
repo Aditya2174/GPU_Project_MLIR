@@ -1,1 +1,3 @@
 iree-build/
+mlir/resnet50_report.ncu-rep
+mlir/resnet50_cuda.vmfb
